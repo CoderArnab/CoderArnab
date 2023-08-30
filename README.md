@@ -1,5 +1,5 @@
 <h1 align="center"> Hello World!  </h1>
-<h1 align="center">Hi 👋, I'm Arnab Biswas</h1>
+<h1 align="center"> I'm Arnab Biswas</h1>
 <h3 align="center">Tech Enthusiast & Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderarnab&label=Profile%20views&color=0e75b6&style=flat" alt="coderarnab" /> </p>
