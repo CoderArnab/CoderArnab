@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **arnab.techguy@gmail.com**
 
-- ⚡ Fun fact **I think I am an Anti-Romantic Programmer**
+- ⚡ Fun fact **I am coder not a mechanic :)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
