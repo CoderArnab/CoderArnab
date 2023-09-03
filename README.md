@@ -2,7 +2,7 @@
 <h1 align="center"> I'm Arnab Biswas</h1>
 <h3 align="center">Tech Enthusiast & Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderarnab&label=Profile%20views&color=0e75b6&style=flat" alt="coderarnab" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=coderarnab&label=Profile%20views&color=0e75b6&style=flat" alt="coderarnab" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderarnab" alt="coderarnab" /></a> </p>
 
