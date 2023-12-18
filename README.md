@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World!  </h1>
+<h1 lign="center"> Hello World!  </h1>
 <h1 align="center"> I'm Arnab Biswas</h1>
 <h3 align="center">Tech Enthusiast & Programmer from India</h3>
 
